@@ -9,5 +9,5 @@
 - Exploratory Data Analysis (EDA): Initial analysis to understand the data distribution and identify patterns.
 - Feature Engineering: Creation of new features to improve model performance.
 - Model Training and Evaluation: Steps taken to train machine learning models and evaluate their performance.
-= Results: Findings from the data analysis and model performance metrics.
+- Results: Findings from the data analysis and model performance metrics.
 - Conclusion: Summary of insights and suggestions for future work.
