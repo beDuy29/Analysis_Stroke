@@ -1,4 +1,4 @@
-## STROKE ANALYSIS PROEJECT
+## STROKE ANALYSIS PROJECT
 ### 1. Overview
 - This project, conducted by Group 6, focuses on analyzing the causes of strokes. It was guided by our advisor, Mr. Nguyen Van Thanh.
 ### 2. Contents
